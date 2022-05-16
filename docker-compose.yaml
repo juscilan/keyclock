@@ -2,7 +2,7 @@ version: "3"
 
 services:
   app:
-    image: jboss/keycloak:15.0.0
+    image: sleighzy/keycloak
     container_name: micro-auth-app
     volumes:
       - ./.docker/keycloak/data:/opt/jboss/keycloak/standalone/data

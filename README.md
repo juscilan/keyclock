@@ -1,5 +1,9 @@
 # keyclock
-Keyclock
+
+### running
+```
+docker-compose up
+````
 
 
-juscilan.com
+#### juscilan.com
